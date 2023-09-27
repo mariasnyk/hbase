@@ -857,7 +857,7 @@
     <aircompressor.version>0.21</aircompressor.version>
     <brotli4j.version>1.8.0</brotli4j.version>
     <lz4.version>1.8.0</lz4.version>
-    <snappy.version>1.1.8.4</snappy.version>
+    <snappy.version>1.1.10.4</snappy.version>
     <xz.version>1.9</xz.version>
     <zstd-jni.version>1.5.0-4</zstd-jni.version>
     <hbase-thirdparty.version>4.1.1</hbase-thirdparty.version>
